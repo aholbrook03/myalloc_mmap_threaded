@@ -1,4 +1,4 @@
-/* File: myalloc.c
+/* File: bench.c
  * By: Andrew Holbrook
  *
  *	Test program for myalloc_threaded

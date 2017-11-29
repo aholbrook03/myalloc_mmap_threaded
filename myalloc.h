@@ -1,4 +1,4 @@
-/* File: myalloc.c
+/* File: myalloc.h
  * By: Andrew Holbrook
  */
 
